@@ -1,0 +1,6 @@
+TOKEN: rename this file to config.txt and input your stuff directly after each colon. 
+ADMINS: no extra whitespace please! reads/writes are ids, admins/botname/adminrole are actual names.
+BOTNAME:
+READS:
+WRITES:
+ADMINROLE:
